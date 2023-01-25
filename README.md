@@ -1,7 +1,7 @@
 ## Hi there, I'm July 👋
 
 <p align="right">
-  <img src="giphy.gif"  min-width="400px" max-width="400px" 
+  <img src="Powtoon_GIF (3).gif"  min-width="400px" max-width="400px" 
 width="400px" align="right" alt="animated"/>
 </p>
 
